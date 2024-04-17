@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### Take my Card
 
+<a href="https://app.daily.dev/khaliqkadir"><img src="https://api.daily.dev/devcards/v2/hoRzx6Wj7Ko9g7dp2bUSj.png?type=default&r=yqk" width="356" alt="Khaliq Kadir's Dev Card"/></a>                                                                                                                                                                                   
 <!--
 **kkclick/kkclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
